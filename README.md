@@ -1,6 +1,6 @@
 # audit-report
 
-Smart contract Audit by CertiK
+Smart contract Audit by CertiK ( https://www.certik.com/projects/cleardao )
 
 REP-ClearDAO-2022-01-18.pdf: Option & Notes
 
